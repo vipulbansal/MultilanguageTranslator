@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Multilanguage Translator</string>
+    <string name="action_settings">Help</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6702549610673940/5818901116</string>
+    <!--<string name="banner_ad_unit_id2">ca-app-pub-6702549610673940/9658971918</string>-->
+    <!--<string name="banner_ad_unit_id3">ca-app-pub-6702549610673940/2135705119</string>-->
+      <string name="help">"The purpose of Multilanguage Translator is to provide the android user
+          an easy to use and intiutive application for translation from English to Hindi, Chinese, French, Spanish
+          and Arabic languages with scripts.I hope you like this app and find it useful. Any suggestions or bugs can
+          be reported at vipulbansalkkp@gmail.com."</string>
+    <string-array name="languages">
+        <item>Hindi</item>
+        <item>Chinese</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Arabic</item>
+    </string-array>
+</resources>
